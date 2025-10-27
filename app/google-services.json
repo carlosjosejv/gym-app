@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774393934513",
+    "project_id": "fitness-gym-46618",
+    "storage_bucket": "fitness-gym-46618.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774393934513:android:9eae98f79356515ea6a890",
+        "android_client_info": {
+          "package_name": "com.sena.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg80N--P1Mj4yItH3lQhrGcVxrJe1WGaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
